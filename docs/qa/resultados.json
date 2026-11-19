@@ -1,0 +1,14 @@
+{
+  "checks": [
+    "Inicio sin datos y captura de escritorio",
+    "Diagnóstico: 12 áreas, soluciones ocultas incluso en historial, recarga y resultado 100%",
+    "Examen elige 12 preguntas nuevas después del diagnóstico",
+    "Filtros, error, objeción, corrección y vínculo al intento original",
+    "Abierta: validación, texto fijado, rúbrica justificada y nota separada",
+    "Ejercicio por pasos completo",
+    "Exportar, rechazar JSON corrupto, borrar, importar y persistir tras recarga",
+    "Progreso 12 áreas; móvil 390px sin desborde; foco por teclado",
+    "Sin errores JavaScript en la consola"
+  ],
+  "passed": 9
+}
